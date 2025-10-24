@@ -1,0 +1,1 @@
+ C:\\Users\\91930\\flutter_projects\\shopsy\\.dart_tool\\flutter_build\\8a2c4057f54e594a7ce664100681c982\\native_assets.json: 

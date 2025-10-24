@@ -1,0 +1,23 @@
+[
+  {
+    "id": "p1",
+    "title": "Classic Red Shirt",
+    "description": "Comfortable cotton shirt.",
+    "price": 599.0,
+    "image": "https://via.placeholder.com/200"
+  },
+  {
+    "id": "p2",
+    "title": "Denim Jeans",
+    "description": "Regular fit denim jeans.",
+    "price": 1299.0,
+    "image": "https://via.placeholder.com/200"
+  },
+  {
+    "id": "p3",
+    "title": "Sport Shoes",
+    "description": "Lightweight running shoes.",
+    "price": 2499.0,
+    "image": "https://via.placeholder.com/200"
+  }
+]

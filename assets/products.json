@@ -1,0 +1,74 @@
+[
+  {
+    "id": "p1",
+    "title": "Classic Red Shirt",
+    "description": "Comfortable 100% cotton shirt for daily wear.",
+    "longDescription": "The Classic Red Shirt is crafted from breathable cotton fabric that ensures comfort and durability. Ideal for both casual and semi-formal occasions, it pairs well with jeans or chinos.",
+    "price": 699.0,
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRjktoG04y2fF0e74dKM4ayhiUiOHBh6mbsBJuYF1flPC7qm7tqKF9n15ZomlLG7Dt1eaQ7NUwhvh1BLPRYeBKcP3JVPF9UagEmVxqUR2PB"
+  },
+  {
+    "id": "p2",
+    "title": "Denim Jeans",
+    "description": "Regular fit stretchable blue denim.",
+    "longDescription": "These Denim Jeans offer a comfortable regular fit and are made from high-quality stretchable fabric. Reinforced stitching and classic styling make them a wardrobe essential.",
+    "price": 1299.0,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQn4ASTDd_6Mmdc8wW4ACgfUgFd4x7-01LoG6pXn0wLDmMCXl7rcU-4w7NCD3-3vX1-K98BiwlmNLck8ZRs0456Q_KiIxwcjFCChqt-kULQ"
+  },
+  {
+    "id": "p3",
+    "title": "Sport Running Shoes",
+    "description": "Lightweight and breathable running shoes.",
+    "longDescription": "Designed for comfort and performance, these running shoes feature a breathable mesh upper, cushioned sole, and anti-slip grip — perfect for workouts or casual outings.",
+    "price": 2499.0,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyL9Illcvb9EzpaNNlOXjVntx_EmAUFm3yw&s"
+  },
+  {
+    "id": "p4",
+    "title": "Leather Wallet",
+    "description": "Genuine leather wallet with multiple compartments.",
+    "longDescription": "This premium leather wallet offers durability and elegance. Includes multiple slots for cards, cash, and IDs, with a sleek design that fits perfectly in your pocket.",
+    "price": 899.0,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQMOFBDuixsGmS2q9HWmmPvPMP7dVt6Gqejv5QtICDnlCJNUx414qW24WXQ0xIcXRcOWoYKf6Jp8ihIQnKA03Q-oZi6tidDYCs6eV-FgjWa"
+  },
+  {
+    "id": "p5",
+    "title": "Smart Watch",
+    "description": "Fitness tracking smartwatch with heart-rate monitor.",
+    "longDescription": "Track your steps, workouts, and heart rate in real time. The Smart Watch features a crisp display, customizable faces, and long battery life for everyday use.",
+    "price": 3499.0,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSUFCU_62-g52QMte2eWQ5Ur1NVATmUObAQIICAMlR8dutmHbiHshnXo_wZPdMJ_nNx7ceqCET4iiU0qMdJHDxrmqJ_8oaoT1JE4YHoESUNZpK_yCCgoC9cC8oW"
+  },
+  {
+    "id": "p6",
+    "title": "Classic White Sneakers",
+    "description": "Minimalist sneakers for a clean, casual look.",
+    "longDescription": "These white sneakers are designed with a timeless silhouette and soft cushioning for all-day comfort. They easily pair with jeans, shorts, or chinos.",
+    "price": 1999.0,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQCTLKyFvkOtRWrTs6F4QlirR4m0Pi4xzDSpM-R0wWmMpkLjTV3KNBNINeIMwABICaiNXaCpjFXkxklc2q1XFuszLmM7KSEgOc1mnkkn0j5XdLSxZsb95TW"
+  },
+  {
+    "id": "p7",
+    "title": "Casual Hoodie",
+    "description": "Soft fleece hoodie with adjustable drawstrings.",
+    "longDescription": "Made from a cozy cotton-poly blend, this hoodie keeps you warm during chilly days. Features a front pocket and ribbed cuffs for a snug fit.",
+    "price": 1199.0,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTZhhA4UJhbWxRiqJ_wLS3f5kYGkDvs6wZ1rdk6D5pagXYH2DToVGlGyWjMCtZD74UMpe4FLg_M80_k1soGlnv5lW7xX9QeESkirJR40pcS"
+  },
+  {
+    "id": "p8",
+    "title": "Sunglasses",
+    "description": "UV-protected aviator sunglasses.",
+    "longDescription": "Stylish aviator sunglasses with UV400 protection. Perfect for sunny days, offering clear vision and a lightweight metal frame for a premium look.",
+    "price": 799.0,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQPEjiyv13oeNwhk4QYfK2J1YnvUdEyC5e282K0MPQ-BtsqzsYKOUurnFeeftfGWf4b9-7qnL6r5k8BQZjnlvaPQ4mHy4_Msw"
+  },
+  {
+    "id": "p9",
+    "title": "Analog Wrist Watch",
+    "description": "Elegant analog watch with leather strap.",
+    "longDescription": "This analog wristwatch combines modern craftsmanship with a classic design. Features precise quartz movement and a genuine leather strap for long-lasting comfort.",
+    "price": 1599.0,
+    "image": "https://images.unsplash.com/photo-1519744792095-2f2205e87b6f?w=500"
+  }
+]
